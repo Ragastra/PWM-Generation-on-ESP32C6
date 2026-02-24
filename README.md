@@ -1,4 +1,4 @@
-# 3-Phase SPWM Generation on ESP32-C6
+# 3-Phase SPWM Generation on ESP32-C6 (By Rausheen Khurana)
 
 This project implements a **3-Phase Sinusoidal Pulse Width Modulation (SPWM)** generator using the ESP32-C6 microcontroller. It is designed to drive 3-phase inverters or motors by generating precise PWM signals with a 120° phase shift between them.
 
